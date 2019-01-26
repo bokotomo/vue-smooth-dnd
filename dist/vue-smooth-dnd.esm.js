@@ -1,6 +1,6 @@
 /**
  * Bundle of: vue-smooth-dnd
- * Generated: 2019-01-24
+ * Generated: 2019-01-26
  * Version: 0.2.8
  */
 
